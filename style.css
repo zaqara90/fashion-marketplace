@@ -1,0 +1,58 @@
+
+.d-flex{
+    display: flex;
+}
+.justify-content-between{
+    justify-content: space-between;
+}
+.capitalize{
+    text-transform: capitalize;
+}
+.align-items-center{
+    align-items: center;
+}
+nav{
+   
+    margin: auto;
+    height: 101px;
+    width: 1440px;
+
+    /* H1-H2-H2 ტექსტეტბს რომ მივანიცჰოტ CSS ში  */
+   /* margin-block: ; block zevit qvevit garedan ashorebs */
+   /* margin-inline: ; inliine gverdebidan garedan ashorebs */
+   /* max-width: sigane konkretuli blokis 460 px; */
+   /* line-height:  100px aris ; */
+   /* font-family: 24; */
+   /* flex-direction: column  */
+   /* <button Type =" rasac chawer imas akeTebs "; */
+   
+   
+   
+    button.search{
+        height: 48px;
+        width: 358px;
+        border-radius: 28px;  
+        background-color: inherit;
+        border-color: rgb(255, 255, 255);
+        }
+     a{
+        font-size: 16px;
+        color: aliceblue;
+        }
+    button.wallet{
+        height: 48px;
+        width: 108px;
+        border-radius: 15px;  
+        background-color: inherit;
+        border-color: rgb(255, 255, 255);
+        }
+
+   
+    input{
+          width: 250px;
+          background-color:inherit;
+          border: 0;
+    }
+
+}
+
