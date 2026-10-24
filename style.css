@@ -20,10 +20,16 @@
 .i-flex{
     display: inline-flex;
 }
+.text-center{
+    text-align: center;
+}
 .container{
     max-width: 1198px;
     margin: 0 auto;
     width: 90%;
+}
+.heading-20{
+    font-size: 20px;
 }
 nav{
    
@@ -140,7 +146,60 @@ section.brands{
 /* ---------- Column 3 (one tall card) ---------- */
 .card--7 { grid-column: 3; grid-row: 4 / span 23; }
 
-
-
 }
+.brands-shoes{
+    margin-block: 110px;
+}
+
+.text-about
+{ 
+    
+    h1{
+        font-size: 40px;
+        color: white
+    }
+    p{  
+        font-size: 20px;
+        color: white;
+    }
+}
+    .queen-fasion{
+       
+        gap: 90px;
+        margin-top: 90px;
+    >img{
+
+    }
+        .fasion-text{
+            
+            position: relative;
+            h2{
+                margin: 0;
+                color: white;
+                font-weight: bold;
+            }
+            P{
+            line-height: 200%;
+            font-size: 20px;
+            color: white;
+            }
+           
+            .btn1{
+                position: absolute; 
+                bottom: 0;       
+                left: 0;
+                background-color: #b76cff;
+                border-radius: 28px;
+                width: 202px;
+                height:54px;
+                font-size: 18px;
+                display: flex;             
+                justify-content: center;      
+                align-items: center; 
+                color: white; 
+            }
+            }
+         }
+
+
 
