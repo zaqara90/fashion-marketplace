@@ -31,6 +31,9 @@
 .heading-20{
     font-size: 20px;
 }
+.gap-30{
+gap: 30px;
+}
 nav{
    
     margin: auto;
@@ -200,6 +203,55 @@ section.brands{
             }
             }
          }
+         .all-colection{
+            width: 941px;
+            margin: 150px auto;
+            .logo-text{
+                margin-top: 67px;
+            }
+            h1{
+                margin: 0;
+                color: white;
+                font-weight: bold;
+            }
+            P{
+            line-height: 200%;
+            font-size: 20px;
+            color: white;
+            }
+           
+        }
+        .product-card{
+             
+            .buttons{
+                margin-bottom: 15px;
+                span{
+                background-color: #493E52;
+                border-radius: 10px;
+                width: 228px;
+                height: 40px; 
+                font-size: 18px;
+                display: flex;             
+                justify-content: center;      
+                align-items: center; 
+                color: white
+                }
+            }
+        }
+    .product-list{
+        .designer-card{
+            border-radius: 20px;
+            padding: 20px;
+            background-color: #88858c;
+             img{
+                width: 100%;
+              
+            } 
+            
+        }
+    
+    }
 
+        
 
 
